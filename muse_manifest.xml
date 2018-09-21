@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="dipto007sarker.github.io" resolutions="1x" timestamp="1537553619354">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="dipto007sarker.github.io" resolutions="1x" timestamp="1537554378205">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="index.css" crc="4206967515" ref="index"/>
@@ -30,5 +30,5 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="4117898870" seo="true" mt="1537551482834" redirect="true"/>
+  <file name="index.html" crc="3936347276" seo="true" mt="1537554326064" redirect="true"/>
 </manifest>
